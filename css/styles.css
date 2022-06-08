@@ -5,10 +5,14 @@
   font-size: 26px;
   line-height: 31px;
   letter-spacing: 0.03em;
-  background-image: linear-gradient(to right,blue, black);
-  -webkit-background-clip: text;
-  -moz-background-clip: text;
-  color: transparent;
+}
+.black {
+  color: black;
+  background: none;
+}
+.blue {
+  color:#2196F3;
+  background: none;
 }
 .multicolortext {
   background-image: linear-gradient(
