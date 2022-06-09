@@ -29,18 +29,6 @@
 
   color: #2196f3;
 }
-.black {
-  color: black;
-  background: none;
-}
-.blue {
-  color: #2196f3;
-  background: none;
-}
-.white {
-  color: white;
-  background: none;
-}
 /* footer */
 .multicolortext {
   background-image: linear-gradient(
